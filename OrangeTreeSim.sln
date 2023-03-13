@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrangeTreeSim", "OrangeTreeSim\OrangeTreeSim.csproj", "{8402C917-DC30-49EE-A228-3DC331F7D1F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrangeTreeTest", "OrangeTreeTest\OrangeTreeTest.csproj", "{073815E8-0937-4245-B48C-45F0867A6598}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8402C917-DC30-49EE-A228-3DC331F7D1F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8402C917-DC30-49EE-A228-3DC331F7D1F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8402C917-DC30-49EE-A228-3DC331F7D1F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8402C917-DC30-49EE-A228-3DC331F7D1F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{073815E8-0937-4245-B48C-45F0867A6598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073815E8-0937-4245-B48C-45F0867A6598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073815E8-0937-4245-B48C-45F0867A6598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073815E8-0937-4245-B48C-45F0867A6598}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {446CF7DB-0A3A-4507-9907-CB7047CBA39A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\C Sharp Windows\OrangeTreeSim\OrangeTreeSim\bin\Debug\net6.0\OrangeTreeSim.exe
+C:\C Sharp Windows\OrangeTreeSim\OrangeTreeSim\bin\Debug\net6.0\OrangeTreeSim.deps.json
+C:\C Sharp Windows\OrangeTreeSim\OrangeTreeSim\bin\Debug\net6.0\OrangeTreeSim.runtimeconfig.json
+C:\C Sharp Windows\OrangeTreeSim\OrangeTreeSim\bin\Debug\net6.0\OrangeTreeSim.dll
+C:\C Sharp Windows\OrangeTreeSim\OrangeTreeSim\bin\Debug\net6.0\OrangeTreeSim.pdb
+C:\C Sharp Windows\OrangeTreeSim\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.csproj.AssemblyReference.cache
+C:\C Sharp Windows\OrangeTreeSim\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\C Sharp Windows\OrangeTreeSim\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.AssemblyInfoInputs.cache
+C:\C Sharp Windows\OrangeTreeSim\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.AssemblyInfo.cs
+C:\C Sharp Windows\OrangeTreeSim\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.csproj.CoreCompileInputs.cache
+C:\C Sharp Windows\OrangeTreeSim\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.dll
+C:\C Sharp Windows\OrangeTreeSim\OrangeTreeSim\obj\Debug\net6.0\refint\OrangeTreeSim.dll
+C:\C Sharp Windows\OrangeTreeSim\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.pdb
+C:\C Sharp Windows\OrangeTreeSim\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.genruntimeconfig.cache
+C:\C Sharp Windows\OrangeTreeSim\OrangeTreeSim\obj\Debug\net6.0\ref\OrangeTreeSim.dll
